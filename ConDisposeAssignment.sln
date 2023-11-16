@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConDisposeAssignment", "ConDisposeAssignment\ConDisposeAssignment.csproj", "{7B921F99-1D95-4A0D-9E15-639FF6E8B6F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B921F99-1D95-4A0D-9E15-639FF6E8B6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B921F99-1D95-4A0D-9E15-639FF6E8B6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B921F99-1D95-4A0D-9E15-639FF6E8B6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B921F99-1D95-4A0D-9E15-639FF6E8B6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8118B1D3-C2CC-4260-9E67-E951C138136E}
+	EndGlobalSection
+EndGlobal

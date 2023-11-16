@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-9 Assignment-01\ConDisposeAssignment\ConDisposeAssignment\bin\Debug\ConDisposeAssignment.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-9 Assignment-01\ConDisposeAssignment\ConDisposeAssignment\bin\Debug\ConDisposeAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-9 Assignment-01\ConDisposeAssignment\ConDisposeAssignment\bin\Debug\ConDisposeAssignment.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-9 Assignment-01\ConDisposeAssignment\ConDisposeAssignment\obj\Debug\ConDisposeAssignment.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-9 Assignment-01\ConDisposeAssignment\ConDisposeAssignment\obj\Debug\ConDisposeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-9 Assignment-01\ConDisposeAssignment\ConDisposeAssignment\obj\Debug\ConDisposeAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-9 Assignment-01\ConDisposeAssignment\ConDisposeAssignment\obj\Debug\ConDisposeAssignment.pdb
